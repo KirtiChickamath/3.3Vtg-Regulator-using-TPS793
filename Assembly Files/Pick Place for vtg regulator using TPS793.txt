@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+D:\Power Supply using TPS793\Project Outputs for Free Documents\Pick Place\Pick Place for Pwr sup TPS793.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25-05-25
+Time:       21:02
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                        Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description 
+U1         TPS793                         TopLayer TPS793                665.354       208.661       0        ""          
+R2         "Resistor 0805 300R"           TopLayer RESISTOR_0805_300R    980.315       307.087       90       ""          
+R1         "Resistor 0805 291R"           TopLayer RESISTOR_0805_291R    409.449       307.087       90       ""          
+J2         "Generic Header, 1X2 Vertical" TopLayer 22232021              1216.536      248.031       0        ""          
+J1         "Generic Header, 1X2 Vertical" TopLayer 22232021              173.228       248.031       180      ""          
+D2         "LED 0805 Green"               TopLayer LED_0805_GREEN        980.315       169.291       270      ""          
+D1         "LED 0805 Red"                 TopLayer LED_0805_RED          409.449       169.291       270      ""          
+C3         "Capacitor 0805 2.2uF"         TopLayer CAPACITOR_0805_2.2UF  822.835       267.717       180      ""          
+C2         "Capacitor 0805 0.1uF"         TopLayer CAPACITOR_0805_0.1UF  527.559       228.346       90       ""          
+C1         "Capacitor 0805 0.01uF"        TopLayer CAPACITOR_0805_0.01UF 822.835       149.606       180      ""          
