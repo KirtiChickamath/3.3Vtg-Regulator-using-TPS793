@@ -30,23 +30,23 @@ A simple 3.3V low dropout voltage regulator circuit using the TPS793 from Texas 
 
 ### Schematic
 
-![Schematic](https://github.com/user-attachments/assets/89798456-5a24-40b1-8e85-5b0fa5e93a89)
+![Schematic](https://github.com/user-attachments/assets/628a52e9-d911-4b8f-b11a-5beb91371192)
+
 
 
 ### PCB Layout
 
-![Top Layout ](https://github.com/user-attachments/assets/514a8cd2-ee7e-40bb-87c0-3c8f5b386bbf)
+![Top Layout ](https://github.com/user-attachments/assets/669784db-ca3e-4516-b96a-b628e6c3bf57)
 
-![Bottom Layout](https://github.com/user-attachments/assets/3b5b7a58-165a-499f-8742-071e5df22894)
+![Bottom Layout](https://github.com/user-attachments/assets/c115246e-f071-4cb4-89a2-9edee067459d)
+
 
 ### 3D
+![3D](https://github.com/user-attachments/assets/75ce5906-f4ad-4447-910c-530042d245bd)
 
-![3D](https://github.com/user-attachments/assets/b663761f-87ec-466d-aab2-6df3d7e15276)
+![3D TOP](https://github.com/user-attachments/assets/2b94b313-1761-4509-b9cc-3fb8004f9250)
 
-![3D no components](https://github.com/user-attachments/assets/b70fec9d-8377-45f8-b66f-b294d8ee534e)
+![3D BOTTOM](https://github.com/user-attachments/assets/c27e7701-c992-4f9e-8d24-8ef9f37cd214)
 
-![3D TOP](https://github.com/user-attachments/assets/2ec66301-e3a5-4b22-9ecf-5f12de162a67)
-
-![3D BOTTOM](https://github.com/user-attachments/assets/8edb6a03-d762-4695-97a8-63d6e9b702b4)
-
+![3D no components](https://github.com/user-attachments/assets/dffce98f-cf39-457b-a9e4-5554beff793e)
 
