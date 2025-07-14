@@ -8,7 +8,7 @@ A simple 3.3V low dropout voltage regulator circuit using the TPS793 from Texas 
 **Software Used:** Altium
 
 **Inspired by this video:** [Simple LDO Regulator Circuit - YouTube](https://www.youtube.com/watch?v=0cwvYz2HmLw)
-Credit: Original design idea based on the YouTube tutorial
+   (Original design idea based on the YouTube tutorial)
 
 ## Features
 - Clean 3.3V from a 5V source
